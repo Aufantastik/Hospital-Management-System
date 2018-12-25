@@ -25,7 +25,7 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 
 ## Penjelasan Program
 
-<p align="center"><img src="https://github.com/Aufantastik/Hospital-Management-System/blob/master/1.PNG"></p>
+<p align="center"><img src="https://github.com/Aufantastik/Hospital-Management-System/blob/master/1.PNG"></img></p>
 1) Menu pertama untuk menginput pasien yang ingin mendaftar ke rumah sakit, pasien harus meemasukkan nama, nomor telepon, dan alamat rumah yang nantinya program kita akan mensave data tersebut. Jika ingin menginput pasien lagi maka dapat mengisinya kembali dan maksimal pasiennya adalah…. 
 2) Pada menu kedua batal pasien, pasien dapat membatalkan pemesanan dan dalam program ini batal pasien menggunakan sistem pop pada struct, jadi program ini membatalkan pemesanan dari yang paling akhir memesan (bila dianalogikan dengan tumpukan, maka tumpukan paling atas yang diambil untuk membatalkan pemesanan). 
 3) Pada menu ketiga pasien masuk, pasien dibolehkan masuk ke kamar-kamar yang isinya ada dokter umum, THT, dan penyakit dalam. Pada menu ketiga ini menggunakan algoritma queque dimana pasien yang pertama mendaftar dapat masuk ke kamar tersebut terlebih dahulu baru berikutnya boleh masuk. 
@@ -34,7 +34,8 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 6) Menu keenam adalah help, yang berfugsi pada suatu program selain menyelesaikan permasalah yang mungkin dihadapi oleh user, menu help juga memudahkan user dalam menjalankan program. 
 7) Dan yang terakhir menu exit untuk keluar dari program.
 <br>
-![menu](/images/2.PNG)
+
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/2.PNG)
 
 ## Flowchart
 
