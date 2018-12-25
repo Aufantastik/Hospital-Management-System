@@ -50,11 +50,35 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 
 <br> <br> <br>
 
-## Flowchart
-![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/flochar/Flowup.png)
+VOID INPUT
+<br>
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture.PNG)
 
+<br> <br> <br>
 
+VOID BAT
+<br>
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture2.PNG)
 
+<br> <br> <br>
+
+VOID MSK
+<br>
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture3.PNG)
+
+<br> <br> <br>
+
+VOID SHOW
+<br>
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture4.PNG)
+
+<br> <br> <br>
+
+VOID PNDPT
+<br>
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture6.PNG)
+
+<br> 
 ## Contact Person
 Bila ada yang ingin ditanyakan dapat menghubungi kontak :
 
