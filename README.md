@@ -17,6 +17,11 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 6) Help
 7) Exit
 
+<p>Created by:
+<br>              Aufa Dhiya Aydan & Joshua Evans Todo Sidabutar 
+<br>                        Teknik Komputer
+<br>                     Universitas Indonesia</p>
+
 ## Installation 
 1) Download atau clone repository ke desktop kamu.
 2) Ekstrak ke dalam satu folder dan pastikan bahwa semua source code diletakkan di dalam satu branch.
@@ -43,7 +48,12 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/2.PNG)
 
+<br> <br> <br>
+
 ## Flowchart
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/flochar/Flowup.png)
+
+
 
 ## Contact Person
 Bila ada yang ingin ditanyakan dapat menghubungi kontak :
