@@ -49,41 +49,42 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/2.PNG)
 
 <br>
-VOID INPUT
+VOID INPUT pada Case 1
 <br>
-Void inp berfungsi  untuk memanggil case 1 yaitu untuk menginput pasien yang ingin mendaftar
+Void inp berfungsi  untuk menginput data pasien yang akan mendaftar. Data dibuat dengan cara mengalokasikan memori untuk data pasien, lalu data akan dimasukkan dalam antrian.
+
 <br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture.PNG)
 
 <br> 
 
-VOID BAT
+VOID BAT pada Case 2
 <br>
-Void bat berfungsi untuk memanggil case 2 yaitu untuk membatalkan pemesanan dari seorang pasien
+Void bat berfungsi untuk membatalkan pesanan pasien terakhir yang diinput. Dilakukan dengan cara menentukan data pasien terakhir (bef) yang akan dihapus lalu mengubah data sebelumnya (bef2) menjadi data terakhir dengan membuat NULL pada nextpasien.
 <br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture2.PNG)
 
 <br> 
 
-VOID MSK
+VOID MSK pada Case 3
 <br>
-Void msk berfungsi untuk memanggil case 3 yang bertujuan untuk mendata pasien yang akan masuk ke ruangan yang telah diisi oleh dokter-dokter spesialisnya
+Void msk berfungsi untuk memasukkan data pasien yang masuk dari antrian dengan memilih ruangan dokternya sesuai pilihan. Setelah itu data pasien akan disimpan di pendataan dan dihapus dari antrian. Dilakukan dengan cara melakukan input bagian dokter lalu harganya ditentukan dari situ. Setelah itu data akan disimpan di memori baru untuk pendataan dan dihapus dari antrian.
 <br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture3.PNG)
 
 <br> 
 
-VOID SHOW
+VOID SHOW pada Case 4
 <br>
-Void show berfungsi untuk memanggil case 4 dimana program akan menampilkan update-an antrian
+Void show berfungsi untuk menampilkan daftar antrian yang berisi nama pemesan. Dilakukan dengan cara menampilkan data nama pasien sampai data pointer nextpasien NULL untuk berhenti.
 <br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture4.PNG)
 
 <br> 
 
-VOID PNDPT
+VOID PNDPT pada Case 5
 <br>
-Void pndpt berfungsi untuk memanggil case 5 dimana program akan menampilkan pendapatan rumah sakit yang didapat dari uang yang dikeluarkan pasien sesuai taraf yang telah ditentukan
+Void pndpt berfungsi untuk menampilkan seluruh data pasien yang sudah masuk ke rumah sakit. Dilakukan dengan cara yang sama dengan menampilkan antrian di void show . Namun antrian void pndpt berbeda dan menampilkan seluruh data pasien. Setelah menampilkan sluruh data total pendapatan ditampilkan dari akumulasi pembayaran pasien.
 <br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture6.PNG)
 
