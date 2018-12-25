@@ -44,7 +44,7 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 6) Menu keenam adalah help, yang berfugsi pada suatu program selain menyelesaikan permasalah yang mungkin dihadapi oleh user, menu help juga memudahkan user dalam menjalankan program. 
 <br>
 7) Dan yang terakhir menu exit untuk keluar dari program.
-<br>
+<br> <br>
 
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/2.PNG)
 
