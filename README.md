@@ -1,2 +1,5 @@
 # Hospital-Management-System
-Proyek Akhir Proglan
+
+* [Deskripsi](#deskripsi)
+* [Penjelasan Program](#Penjelasan-Program)
+* [Flow Chart](#Flow-Chart)
