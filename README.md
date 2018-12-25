@@ -89,7 +89,8 @@ Void pndpt berfungsi untuk memanggil case 5 dimana program akan menampilkan pend
 
 ## Flow Chart
 <br>
-![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/flochar/Flowup.png)
+<p align="center"><https://github.com/Aufantastik/Hospital-Management-System/blob/master/flochar/Flowup.png"></img></p>
+
 
 ## Contact Person
 <br>
