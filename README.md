@@ -32,8 +32,8 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 ## Contact Person
 Bila ada yang ingin ditanyakan dapat menghubungi kontak :
 
-aufa.aydan@gmail.com / 081908921959
-Joshua.white2@gmail.com / 081329598039
+1. aufa.aydan@gmail.com / 081908921959
+2. Joshua.white2@gmail.com / 081329598039
 
 ## Pembagian Tugas
 Aufa Dhiya Aydan  : Coding, GitHub 
