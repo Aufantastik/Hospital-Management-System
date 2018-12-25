@@ -49,7 +49,6 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/2.PNG)
 
 <br>
-
 VOID INPUT
 <br>
 Void inp berfungsi  untuk memanggil case 1 yaitu untuk menginput pasien yang ingin mendaftar
