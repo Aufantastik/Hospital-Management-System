@@ -25,7 +25,7 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 
 ## Penjelasan Program
 
-
+<p align="center"><img src="https://github.com/Aufantastik/Hospital-Management-System/blob/master/1.PNG"></p>
 
 ## Flowchart
 
