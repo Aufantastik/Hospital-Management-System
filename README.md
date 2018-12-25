@@ -48,33 +48,43 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/2.PNG)
 
-<br> <br> <br>
+<br> <br> 
 
 VOID INPUT
 <br>
+Void inp berfungsi  untuk memanggil case 1 yaitu untuk menginput pasien yang ingin mendaftar
+<br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture.PNG)
 
-<br> <br> <br>
+<br> 
 
 VOID BAT
 <br>
+void bat berfungsi untuk memanggil case 2 yaitu untuk membatalkan pemesanan dari seorang pasien
+<br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture2.PNG)
 
-<br> <br> <br>
+<br> 
 
 VOID MSK
 <br>
+void msk berfungsi untuk memanggil case 3 yang bertujuan untuk mendata pasien yang akan masuk ke ruangan yang telah diisi oleh dokter-dokter spesialisnya
+<br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture3.PNG)
 
-<br> <br> <br>
+<br> 
 
 VOID SHOW
 <br>
+void show berfungsi untuk memanggil case 4 dimana program akan menampilkan update-an antrian
+<br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture4.PNG)
 
-<br> <br> <br>
+<br> 
 
 VOID PNDPT
+<br>
+void pndpt berfungsi untuk memanggil case 5 dimana program akan menampilkan pendapatan rumah sakit yang didapat dari uang yang dikeluarkan pasien sesuai taraf yang telah ditentukan
 <br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture6.PNG)
 
