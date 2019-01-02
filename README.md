@@ -52,11 +52,11 @@ Program yang kita buat adalah program Hospital Management System dimana program 
 VOID INPUT pada Case 1
 <br>
 Void inp berfungsi  untuk menginput data pasien yang akan mendaftar. Data dibuat dengan cara mengalokasikan memori untuk data pasien, lalu data akan dimasukkan dalam antrian.
+<br> <br>
 
-<br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture.PNG)
 
-<br> 
+<br>
 
 VOID BAT pada Case 2
 <br>
