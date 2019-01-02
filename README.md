@@ -88,6 +88,26 @@ Void pndpt berfungsi untuk menampilkan seluruh data pasien yang sudah masuk ke r
 <br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/images/Capture6.PNG)
 
+## Program Berjalan
+
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/1.PNG)
+<br>
+
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/2.PNG)
+<br>
+
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/3.PNG)
+<br>
+
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/4.PNG)
+<br>
+
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/5.PNG)
+<br>
+
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/6.PNG)
+<br>
+
 ## Flow Chart
 <br>
 
