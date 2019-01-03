@@ -90,7 +90,7 @@ Void pndpt berfungsi untuk menampilkan seluruh data pasien yang sudah masuk ke r
 
 ## Program Berjalan
 
-![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/1.PNG)
+![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/7.PNG)
 <br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/2.PNG)
 <br>
