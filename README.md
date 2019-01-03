@@ -92,23 +92,21 @@ Void pndpt berfungsi untuk menampilkan seluruh data pasien yang sudah masuk ke r
 
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/1.PNG)
 <br>
-1) Program akan menunjukkan tampilan menunya. Pilih no. 1 untuk menginput/mendaftar pasien.
-<br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/2.PNG)
-<br>
-2)Masukkan nama, nomor telpon, dan alamat rumah untuk meregist.
 <br>
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/3.PNG)
 <br>
-3) Inputan pasien akan ditampilkan ketika memilih menu nomor 4. 
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/4.PNG)
 <br>
-4) Menu batal pasien akan membatalkan pasien dari urutan daftar terakhir. 
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/5.PNG)
 <br>
-5) Pilih menu 3 untuk memasukkan pasien ke ruangan-ruangan yang sudah tersedia yang di dalamnya terbagi atas beberapa dokter-dokter spesialisnya. 
 ![menu](https://github.com/Aufantastik/Hospital-Management-System/blob/master/BARUU/6.PNG)
 <br>
+1) Program akan menunjukkan tampilan menunya. Pilih no. 1 untuk menginput/mendaftar pasien.
+2)Masukkan nama, nomor telpon, dan alamat rumah untuk meregist.
+3) Inputan pasien akan ditampilkan ketika memilih menu nomor 4. 
+4) Menu batal pasien akan membatalkan pasien dari urutan daftar terakhir. 
+5) Pilih menu 3 untuk memasukkan pasien ke ruangan-ruangan yang sudah tersedia yang di dalamnya terbagi atas beberapa dokter-dokter spesialisnya. 
 6) Pada menu 5 akan menampilkan pendapatan Rumah Sakit yang didapat dari pasien yang membayar 
 
 ## Flow Chart
